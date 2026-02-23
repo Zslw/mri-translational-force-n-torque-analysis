@@ -81,6 +81,7 @@ pip install pandas numpy scipy matplotlib
 
 ## Repository Structure
 
+```
 mri-translational-force-n-torque-analysis/
 ├── README.md
 ├── MapField/                          # Raw gaussmeter acquisition runs (.dat, .csv)
@@ -137,7 +138,8 @@ mri-translational-force-n-torque-analysis/
     └── Poster1/
         └── Brights Thesis/
             └── RescaleFigures.ipynb     # Figure reproduction from prior RF thesis
-            
+ ```
+           
 ---
 
 ## Citing This Work
