@@ -15,8 +15,8 @@ nearby objects, as a function of magnetic field gradient and field strength.
 
 ## Repository Structure
 
-### `JupyterLab/Translational/` ⭐ Primary analysis
-The core of the thesis. Contains the translational force experiment:
+### `JupyterLab/Translational/` 
+Contains the translational force experiment:
 raw angle measurements, cleaned datasets, and the main analysis notebook.
 - **`FitSus.ipynb`** — Main analysis: susceptibility fitting, tan(α) vs dB₀/dz,
   uncertainty propagation via standard error formulas. Referenced in the
