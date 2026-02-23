@@ -1,0 +1,34 @@
+7/11/25
+we do Rod3
+0 deg
+20 - 10microl increments including 0 to 200
+
+12 - 50mcl up to 750 or 800
+
+
+angle checks
+
+90
+9 points - 100 mcl increments including 0
+
+180
+repeat of first
+
+
+vertical measurements
+
+
+
+bridge to "100% point" = 3.84375 in
+
+from tip to ruler bot --- .96 increments
+1,100% height mark = .94 in 
+2,		,1.90 in 
+3,		,2.86 in
+4,		,3.82 in
+
+
+----
+Repeat with rod2
+
+notes 180 n2 -  drop last, no duplicate at 20ish

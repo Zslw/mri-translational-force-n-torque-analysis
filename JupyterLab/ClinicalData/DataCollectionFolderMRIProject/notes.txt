@@ -1,0 +1,6 @@
+N1,3 are backwards. Measured starting at bore 
+
+N2,4 measured ending at bore
+
+
+x = 0 to 1252 mm approx check

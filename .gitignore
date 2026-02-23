@@ -1,0 +1,30 @@
+
+# Thesis writing — kept private
+MRI Safety Thesis.md
+Lab_Notebook_Updates.md
+Literature Review.md
+Research_Journal.md
+Poster Outline.md
+Workflow_Protocol_Updates.md
+Data_Fitting_Process.md
+
+# Notes and private folders
+Main/
+Building Blocks/
+Literature Review/
+Sources/
+
+# Root-level exploratory plots (not publication-ready)
+plots/
+
+# Scratch notebooks
+JupyterLab/Wavefunct.ipynb
+JupyterLab/Torque/Untitled.ipynb
+JupyterLab/Translational/Untitled.ipynb
+
+# Mac system files
+.DS_Store
+**/.DS_Store
+
+# Jupyter checkpoints (root level)
+.ipynb_checkpoints/

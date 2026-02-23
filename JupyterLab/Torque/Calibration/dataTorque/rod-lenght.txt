@@ -1,0 +1,8 @@
+Rod,material,lenght,diammeter
+Rod1,al,145mm,1.6mm
+Rod2,al,182mm,1.6mm
+Rod3,al,182mm,1.6mm
+Rod4 not working,unknown, 163mm, 1.47mm
+Rod5, glass,166mm,3.2mm
+Rod6 is broken, yellow plastic, 164mm, 1.61mm
+Rod7, clear plastic,180mm ,2.9mm

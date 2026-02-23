@@ -1,0 +1,8 @@
+file_name, reference point, position
+Data_Rod2_endN1-070425,bridge,9.8cm
+Data_Rod2_endN1-070425,anchor,14cm
+Data_Rod3_endN1-070425,bridge,9.8cm
+Data_Rod5_endN1-070425,bridge,8.8cm
+Data_Rod7_endN1-070425,bridge,8.8cm
+Data_Rod7_endN2-070425,bridge,12.9cm
+Data_Rod1_endN1-070425,bridge,8.8cm
