@@ -1,0 +1,14 @@
+Metric,Value,Notes
+Calibration slope [V/N],3.5754e+00,Rod 3 Al sesorcal
+Lever arm r [m],0.05,fixed
+Detection ΔV [mV],0.885,sesorcal min non-zero ΔV
+Detection F [µN],247.52,F = ΔV / slope
+Detection τ_min [N·m],1.238e-05,τ = r × F
+k LR ZI [N·m/T²],3.7936e+02 ± 8.6277e+00,"hLR2, zero-intercept"
+k LR quad [N·m/T²],3.8655e+02 ± 4.9732e+01,"hLR2, quadratic"
+k SR ZI [N·m/T²],7.0080e+00 ± 2.4030e-01,"nSR, zero-intercept"
+k SR quad [N·m/T²],1.7547e+01 ± 3.2740e+00,"nSR, quadratic"
+χ_m LR (ZI),220.716 ± 5.020,
+χ_m LR (quadratic) — primary,224.903 ± 28.935,used for projection
+χ_m SR (ZI),44.851 ± 1.538,
+χ_m SR (quadratic) — primary,112.299 ± 20.954,used for projection
