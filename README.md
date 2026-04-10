@@ -22,6 +22,8 @@ the Magnetic Resonance Environment*).
 ### `Translational/`
 Contains the original translational force experiment from the lab setup:
 raw angle measurements, cleaned datasets, and susceptibility fitting.
+- **`smaller-optimized-honycombCard for MRI`** — 3D printing mesh
+
 - **`FitSus.ipynb`** — Main analysis: susceptibility fitting, tan(α) vs dB₀/dz,
   uncertainty propagation via standard error formulas. Referenced in the
   methodology section of the thesis.
